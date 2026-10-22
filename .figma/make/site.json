@@ -1,0 +1,10 @@
+{
+  "description": "Offers a seamless hotel booking experience with immersive visuals, detailed room info, accessible booking flow, and a connected CMS for staff content management.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
